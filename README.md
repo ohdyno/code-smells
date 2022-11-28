@@ -7,4 +7,4 @@ the material, so I could help in teaching other developers.
 
 ### Powered by:
 - [revealjs](https://revealjs.com/).
-- [![Netlify Status](https://api.netlify.com/api/v1/badges/011d72e1-fd0d-44d5-9e6b-aab9b03d60f5/deploy-status)](https://app.netlify.com/sites/famous-vacherin-7a97f7/deploys)
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/d7aebc0e-dbfa-4672-90bb-66e7a999a87f/deploy-status)](https://app.netlify.com/sites/strong-brigadeiros-a842d8/deploys)
